@@ -6,7 +6,6 @@
 *requirement : python installed* 
 <br><br>
 for Windows :
-
 ```
 pip install virtualenv
 virtualenv venv
@@ -15,7 +14,6 @@ pip install -r packages.txt
 ```
 
 for Linux & Mac :
-
 ```
 sudo pip install virtualenv
 virtualenv venv
