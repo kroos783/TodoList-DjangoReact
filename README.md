@@ -25,7 +25,7 @@ virtualenv venv
 venv\Scripts\activate
 pip install -r packages.txt
 sudo npm install *in folder frontend*
-npm run build `in folder frontend`
+npm run build *in folder frontend*
 ```
 
 ---
