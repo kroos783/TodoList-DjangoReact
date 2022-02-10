@@ -6,7 +6,7 @@
 
 _requirement : python installed_
 <br><br>
-for Windows :
+for Windows : 
 
 ```
 pip install virtualenv
